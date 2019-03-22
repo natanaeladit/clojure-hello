@@ -1,4 +1,4 @@
-# demo
+# my-stuff
 
 FIXME: description
 
@@ -10,7 +10,7 @@ Download from http://example.com/FIXME.
 
 FIXME: explanation
 
-    $ java -jar demo-0.1.0-standalone.jar [args]
+    $ java -jar my-stuff-0.1.0-standalone.jar [args]
 
 ## Options
 
